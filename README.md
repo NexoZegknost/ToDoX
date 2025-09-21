@@ -1,5 +1,10 @@
 # TodoMobile app
 
+STATUS: Developing
+## Authors
+
+- [@NexoZegknost](https://github.com/NexoZegknost)
+
 ## Run the app
 
 Run as a desktop app:
@@ -77,3 +82,11 @@ flet build windows -v
 ```
 
 For more details on building Windows package, refer to the [Windows Packaging Guide](https://flet.dev/docs/publish/windows/).
+
+# Dependencies
+
+1. Create a venv
+2. Install dependencies
+```
+pip install flet supabase
+```
