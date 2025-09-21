@@ -2,18 +2,16 @@
 
 ## Run the app
 
-### uv
-
 Run as a desktop app:
 
 ```
-uv run flet run
+flet run
 ```
 
 Run as a web app:
 
 ```
-uv run flet run --web
+flet run --web
 ```
 
 ### Poetry
